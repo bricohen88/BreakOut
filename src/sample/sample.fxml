@@ -1,0 +1,5 @@
+<?import javafx.scene.Group?>
+<Group fx:controller="sample.Controller" fx:id="mainPane"
+       xmlns:fx="http://javafx.com/fxml" >
+
+</Group>
